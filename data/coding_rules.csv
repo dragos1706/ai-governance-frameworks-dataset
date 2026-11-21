@@ -1,0 +1,11 @@
+rule,name,text
+1,Unit,"One row per top-level item a framework names (principle, pillar, risk or practice), with its own description. Sub-clauses are not separate items."
+2,Meaning over label,"Code what the item asks for, not the word it uses."
+3,Risks,A risk is coded to the dimension that addresses it.
+4,Practices,A practice is coded to what it ensures.
+5,"Several codes, one primary","An item may get several dimensions, but exactly one is primary."
+6,Strength,Named: the item itself is about the dimension (its label or its main point). Mentioned: the dimension appears only within the item's description. Counted separately.
+7,Other,Use OTH with a note when nothing fits. Three or more frameworks sharing a theme creates a new dimension.
+8,When unsure,Write the doubt in the note. Do not guess silently.
+9,Ambiguous words,"A word that plausibly points to more than one dimension gets each of them, as Mentioned. Example: Australia ""protection"" in Test and monitor: SEC and SAF, both Mentioned."
+10,Stated goals,"If an item's description states a dimension as a goal (""Ensure X and Y""), each dimension stated is Named. Example: Australia ""Ensure appropriate transparency and explainability"": TRA and EXP both Named."

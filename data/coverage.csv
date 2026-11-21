@@ -1,0 +1,20 @@
+code,theme,frameworks_naming,frameworks_naming_or_mentioning,public_naming_of_7,company_naming_of_6,naming_singapore_counted_once_of_12
+TRA,Transparency,13,13,7,6,12
+EXP,Explainability,8,10,3,5,8
+ACC,Accountability,12,12,7,5,11
+FAI,Fairness,7,9,3,4,7
+PRI,Privacy,5,7,1,4,5
+SEC,Security,8,11,4,4,8
+SAF,Safety,8,11,3,5,7
+REL,Reliability,8,12,3,5,8
+RPR,Reproducibility,2,4,1,1,2
+HUM,Human oversight,8,9,6,2,7
+ACT,Agent action limits,2,2,1,1,2
+RSK,Risk and impact assessment,4,6,4,0,4
+TST,Testing and monitoring,3,6,3,0,3
+DAT,Data governance,5,7,3,2,5
+LAW,Legal compliance,2,6,2,0,2
+SOC,Societal and environmental wellbeing,6,8,2,4,6
+OTH,Other,2,2,2,0,2
+SUP,Supply chain and third parties,4,5,3,1,4
+LIT,AI literacy and skills,3,3,3,0,3

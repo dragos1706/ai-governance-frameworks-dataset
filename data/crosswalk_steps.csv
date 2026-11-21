@@ -1,0 +1,199 @@
+step,step_label,item_id,framework_id,item_label
+1,Pick one task and define good,F01-01,F01,Valid and reliable
+1,Pick one task and define good,F01-03,F01,Secure and resilient
+1,Pick one task and define good,F01-07,F01,"Fair, with harmful bias managed"
+1,Pick one task and define good,F01-09,F01,Confabulation
+1,Pick one task and define good,F01-13,F01,Harmful bias or homogenization
+1,Pick one task and define good,F01-15,F01,Information integrity
+1,Pick one task and define good,F02-05,F02,A.6 AI system life cycle
+1,Pick one task and define good,F03-02,F03,Art. 9 Risk management system
+1,Pick one task and define good,F03-08,F03,"Art. 15 Accuracy, robustness and cybersecurity"
+1,Pick one task and define good,F05-07,F05,Fairness
+1,Pick one task and define good,F06-02,F06,Understand impacts and plan accordingly
+1,Pick one task and define good,F06-05,F06,Test and monitor
+1,Pick one task and define good,F07-05,F07,P5 Manage the full AI life cycle
+1,Pick one task and define good,F08-01,F08,Fairness
+1,Pick one task and define good,F08-06,F08,Veracity and robustness
+1,Pick one task and define good,F09-01,F09,Fairness
+1,Pick one task and define good,F09-02,F09,Reliability and safety
+1,Pick one task and define good,F09-04,F09,Inclusiveness
+1,Pick one task and define good,F10-03,F10,Fair & Impartial
+1,Pick one task and define good,F10-06,F10,Robust & Reliable
+1,Pick one task and define good,F11-01,F11,Fairness
+1,Pick one task and define good,F11-06,F11,Reliability
+1,Pick one task and define good,F12-01,F12,Accuracy
+2,Break the task into steps,F04-01,F04,Assess and bound the risks upfront
+2,Break the task into steps,F06-02,F06,Understand impacts and plan accordingly
+2,Break the task into steps,F06-03,F06,Measure and manage risks
+2,Break the task into steps,F07-06,F07,P6 Right tool for the job
+2,Break the task into steps,F12-01,F12,Accuracy
+3,"Decide who does each step: code, model or person",F01-14,F01,Human-AI configuration
+3,"Decide who does each step: code, model or person",F02-08,F02,A.9 Use of AI systems
+3,"Decide who does each step: code, model or person",F03-07,F03,Art. 14 Human oversight
+3,"Decide who does each step: code, model or person",F04-03,F04,Implement technical controls and processes
+3,"Decide who does each step: code, model or person",F05-03,F05,Repeatability / Reproducibility
+3,"Decide who does each step: code, model or person",F05-10,F05,Human Agency and Oversight
+3,"Decide who does each step: code, model or person",F06-06,F06,Maintain human control
+3,"Decide who does each step: code, model or person",F07-04,F07,P4 Meaningful human control
+3,"Decide who does each step: code, model or person",F07-06,F07,P6 Right tool for the job
+3,"Decide who does each step: code, model or person",F08-05,F08,Controllability
+3,"Decide who does each step: code, model or person",F12-04,F12,Empowerment
+3,"Decide who does each step: code, model or person",F13-03,F13,Repeatable
+4,Build each step for its type,F01-02,F01,Safe
+4,Build each step for its type,F01-03,F01,Secure and resilient
+4,Build each step for its type,F01-04,F01,Accountable and transparent
+4,Build each step for its type,F01-05,F01,Explainable and interpretable
+4,Build each step for its type,F01-06,F01,Privacy-enhanced
+4,Build each step for its type,F01-08,F01,CBRN information or capabilities
+4,Build each step for its type,F01-10,F01,"Dangerous, violent, or hateful content"
+4,Build each step for its type,F01-11,F01,Data privacy
+4,Build each step for its type,F01-15,F01,Information integrity
+4,Build each step for its type,F01-16,F01,Information security
+4,Build each step for its type,F01-18,F01,"Obscene, degrading, and/or abusive content"
+4,Build each step for its type,F01-19,F01,Value chain and component integration
+4,Build each step for its type,F02-05,F02,A.6 AI system life cycle
+4,Build each step for its type,F02-06,F02,A.7 Data for AI systems
+4,Build each step for its type,F02-07,F02,A.8 Information for interested parties
+4,Build each step for its type,F03-03,F03,Art. 10 Data and data governance
+4,Build each step for its type,F03-05,F03,Art. 12 Record-keeping
+4,Build each step for its type,F03-06,F03,Art. 13 Transparency and information to deployers
+4,Build each step for its type,F03-08,F03,"Art. 15 Accuracy, robustness and cybersecurity"
+4,Build each step for its type,F03-09,F03,Art. 50 Transparency obligations
+4,Build each step for its type,F04-01,F04,Assess and bound the risks upfront
+4,Build each step for its type,F04-03,F04,Implement technical controls and processes
+4,Build each step for its type,F04-04,F04,Enable end-user responsibility
+4,Build each step for its type,F05-01,F05,Transparency
+4,Build each step for its type,F05-02,F05,Explainability
+4,Build each step for its type,F05-03,F05,Repeatability / Reproducibility
+4,Build each step for its type,F05-04,F05,Safety
+4,Build each step for its type,F05-05,F05,Security
+4,Build each step for its type,F05-06,F05,Robustness
+4,Build each step for its type,F05-08,F05,Data Governance
+4,Build each step for its type,F06-04,F06,Share essential information
+4,Build each step for its type,F07-03,F07,P3 Use AI securely
+4,Build each step for its type,F07-07,F07,P7 Open and collaborative
+4,Build each step for its type,F08-02,F08,Explainability
+4,Build each step for its type,F08-03,F08,Privacy and security
+4,Build each step for its type,F08-04,F08,Safety
+4,Build each step for its type,F08-08,F08,Transparency
+4,Build each step for its type,F09-02,F09,Reliability and safety
+4,Build each step for its type,F09-03,F09,Privacy and security
+4,Build each step for its type,F09-05,F09,Transparency
+4,Build each step for its type,F10-01,F10,Private
+4,Build each step for its type,F10-02,F10,Transparent & Explainable
+4,Build each step for its type,F10-07,F10,Safe & Secure
+4,Build each step for its type,F11-02,F11,Transparency
+4,Build each step for its type,F11-03,F11,Explainability
+4,Build each step for its type,F11-05,F11,Data integrity
+4,Build each step for its type,F11-07,F11,Security
+4,Build each step for its type,F11-08,F11,Safety
+4,Build each step for its type,F11-09,F11,Privacy
+4,Build each step for its type,F12-01,F12,Accuracy
+4,Build each step for its type,F12-02,F12,Safety
+4,Build each step for its type,F12-03,F12,Honesty
+4,Build each step for its type,F13-01,F13,Visible
+4,Build each step for its type,F13-02,F13,Understandable
+4,Build each step for its type,F13-03,F13,Repeatable
+5,Test against your examples and fix the most common failure,F01-01,F01,Valid and reliable
+5,Test against your examples and fix the most common failure,F01-02,F01,Safe
+5,Test against your examples and fix the most common failure,F01-03,F01,Secure and resilient
+5,Test against your examples and fix the most common failure,F01-07,F01,"Fair, with harmful bias managed"
+5,Test against your examples and fix the most common failure,F01-08,F01,CBRN information or capabilities
+5,Test against your examples and fix the most common failure,F01-09,F01,Confabulation
+5,Test against your examples and fix the most common failure,F01-10,F01,"Dangerous, violent, or hateful content"
+5,Test against your examples and fix the most common failure,F01-13,F01,Harmful bias or homogenization
+5,Test against your examples and fix the most common failure,F01-15,F01,Information integrity
+5,Test against your examples and fix the most common failure,F01-18,F01,"Obscene, degrading, and/or abusive content"
+5,Test against your examples and fix the most common failure,F02-05,F02,A.6 AI system life cycle
+5,Test against your examples and fix the most common failure,F03-02,F03,Art. 9 Risk management system
+5,Test against your examples and fix the most common failure,F03-08,F03,"Art. 15 Accuracy, robustness and cybersecurity"
+5,Test against your examples and fix the most common failure,F04-03,F04,Implement technical controls and processes
+5,Test against your examples and fix the most common failure,F05-04,F05,Safety
+5,Test against your examples and fix the most common failure,F05-07,F05,Fairness
+5,Test against your examples and fix the most common failure,F06-02,F06,Understand impacts and plan accordingly
+5,Test against your examples and fix the most common failure,F06-05,F06,Test and monitor
+5,Test against your examples and fix the most common failure,F08-01,F08,Fairness
+5,Test against your examples and fix the most common failure,F08-04,F08,Safety
+5,Test against your examples and fix the most common failure,F08-06,F08,Veracity and robustness
+5,Test against your examples and fix the most common failure,F09-01,F09,Fairness
+5,Test against your examples and fix the most common failure,F09-02,F09,Reliability and safety
+5,Test against your examples and fix the most common failure,F10-03,F10,Fair & Impartial
+5,Test against your examples and fix the most common failure,F10-06,F10,Robust & Reliable
+5,Test against your examples and fix the most common failure,F10-07,F10,Safe & Secure
+5,Test against your examples and fix the most common failure,F11-01,F11,Fairness
+5,Test against your examples and fix the most common failure,F11-06,F11,Reliability
+5,Test against your examples and fix the most common failure,F11-08,F11,Safety
+5,Test against your examples and fix the most common failure,F12-01,F12,Accuracy
+5,Test against your examples and fix the most common failure,F12-02,F12,Safety
+6,"Decide what a person checks, and what they see",F01-14,F01,Human-AI configuration
+6,"Decide what a person checks, and what they see",F03-01,F03,Art. 4 AI literacy
+6,"Decide what a person checks, and what they see",F03-07,F03,Art. 14 Human oversight
+6,"Decide what a person checks, and what they see",F04-02,F04,Make humans meaningfully accountable
+6,"Decide what a person checks, and what they see",F04-04,F04,Enable end-user responsibility
+6,"Decide what a person checks, and what they see",F05-10,F05,Human Agency and Oversight
+6,"Decide what a person checks, and what they see",F06-06,F06,Maintain human control
+6,"Decide what a person checks, and what they see",F07-01,F07,P1 Know what AI is and its limitations
+6,"Decide what a person checks, and what they see",F07-04,F07,P4 Meaningful human control
+6,"Decide what a person checks, and what they see",F07-09,F07,P9 Skills and expertise
+6,"Decide what a person checks, and what they see",F08-05,F08,Controllability
+6,"Decide what a person checks, and what they see",F12-04,F12,Empowerment
+7,"Go live gradually, then maintain it",F01-04,F01,Accountable and transparent
+7,"Go live gradually, then maintain it",F01-06,F01,Privacy-enhanced
+7,"Go live gradually, then maintain it",F01-07,F01,"Fair, with harmful bias managed"
+7,"Go live gradually, then maintain it",F01-11,F01,Data privacy
+7,"Go live gradually, then maintain it",F01-13,F01,Harmful bias or homogenization
+7,"Go live gradually, then maintain it",F01-17,F01,Intellectual property
+7,"Go live gradually, then maintain it",F01-19,F01,Value chain and component integration
+7,"Go live gradually, then maintain it",F02-01,F02,A.2 Policies related to AI
+7,"Go live gradually, then maintain it",F02-02,F02,A.3 Internal organization
+7,"Go live gradually, then maintain it",F02-03,F02,A.4 Resources for AI systems
+7,"Go live gradually, then maintain it",F02-04,F02,A.5 Assessing impacts of AI systems
+7,"Go live gradually, then maintain it",F02-05,F02,A.6 AI system life cycle
+7,"Go live gradually, then maintain it",F02-06,F02,A.7 Data for AI systems
+7,"Go live gradually, then maintain it",F02-07,F02,A.8 Information for interested parties
+7,"Go live gradually, then maintain it",F02-08,F02,A.9 Use of AI systems
+7,"Go live gradually, then maintain it",F02-09,F02,A.10 Third-party and customer relationships
+7,"Go live gradually, then maintain it",F03-01,F03,Art. 4 AI literacy
+7,"Go live gradually, then maintain it",F03-02,F03,Art. 9 Risk management system
+7,"Go live gradually, then maintain it",F03-03,F03,Art. 10 Data and data governance
+7,"Go live gradually, then maintain it",F03-04,F03,Art. 11 Technical documentation
+7,"Go live gradually, then maintain it",F03-05,F03,Art. 12 Record-keeping
+7,"Go live gradually, then maintain it",F03-06,F03,Art. 13 Transparency and information to deployers
+7,"Go live gradually, then maintain it",F03-09,F03,Art. 50 Transparency obligations
+7,"Go live gradually, then maintain it",F04-02,F04,Make humans meaningfully accountable
+7,"Go live gradually, then maintain it",F04-04,F04,Enable end-user responsibility
+7,"Go live gradually, then maintain it",F05-01,F05,Transparency
+7,"Go live gradually, then maintain it",F05-07,F05,Fairness
+7,"Go live gradually, then maintain it",F05-08,F05,Data Governance
+7,"Go live gradually, then maintain it",F05-09,F05,Accountability
+7,"Go live gradually, then maintain it",F06-01,F06,Decide who is accountable
+7,"Go live gradually, then maintain it",F06-02,F06,Understand impacts and plan accordingly
+7,"Go live gradually, then maintain it",F06-03,F06,Measure and manage risks
+7,"Go live gradually, then maintain it",F06-04,F06,Share essential information
+7,"Go live gradually, then maintain it",F07-01,F07,P1 Know what AI is and its limitations
+7,"Go live gradually, then maintain it",F07-02,F07,"P2 Use AI lawfully, ethically and responsibly"
+7,"Go live gradually, then maintain it",F07-05,F07,P5 Manage the full AI life cycle
+7,"Go live gradually, then maintain it",F07-07,F07,P7 Open and collaborative
+7,"Go live gradually, then maintain it",F07-08,F07,P8 Work with commercial colleagues
+7,"Go live gradually, then maintain it",F07-09,F07,P9 Skills and expertise
+7,"Go live gradually, then maintain it",F07-10,F07,P10 Organisational policies and assurance
+7,"Go live gradually, then maintain it",F08-01,F08,Fairness
+7,"Go live gradually, then maintain it",F08-03,F08,Privacy and security
+7,"Go live gradually, then maintain it",F08-07,F08,Governance
+7,"Go live gradually, then maintain it",F08-08,F08,Transparency
+7,"Go live gradually, then maintain it",F09-01,F09,Fairness
+7,"Go live gradually, then maintain it",F09-03,F09,Privacy and security
+7,"Go live gradually, then maintain it",F09-05,F09,Transparency
+7,"Go live gradually, then maintain it",F09-06,F09,Accountability
+7,"Go live gradually, then maintain it",F10-01,F10,Private
+7,"Go live gradually, then maintain it",F10-02,F10,Transparent & Explainable
+7,"Go live gradually, then maintain it",F10-03,F10,Fair & Impartial
+7,"Go live gradually, then maintain it",F10-05,F10,Accountable
+7,"Go live gradually, then maintain it",F11-01,F11,Fairness
+7,"Go live gradually, then maintain it",F11-02,F11,Transparency
+7,"Go live gradually, then maintain it",F11-04,F11,Accountability
+7,"Go live gradually, then maintain it",F11-05,F11,Data integrity
+7,"Go live gradually, then maintain it",F11-09,F11,Privacy
+7,"Go live gradually, then maintain it",F12-03,F12,Honesty
+7,"Go live gradually, then maintain it",F13-01,F13,Visible
+7,"Go live gradually, then maintain it",F13-04,F13,Auditable

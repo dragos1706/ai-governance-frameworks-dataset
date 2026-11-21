@@ -1,0 +1,109 @@
+item_id,framework_id,item_label,primary_theme,steps,first_addressed_at_stage,note
+F01-01,F01,Valid and reliable,REL,"1, 5",Stage 1,
+F01-02,F01,Safe,SAF,"4, 5",Stage 1,"Partial at stage 1 (permissions, approvals, tests); content guardrails at stage 2"
+F01-03,F01,Secure and resilient,SEC,"1, 4, 5",Stage 1,
+F01-04,F01,Accountable and transparent,ACC,"4, 7",Stage 1,
+F01-05,F01,Explainable and interpretable,EXP,4,Stage 1,
+F01-06,F01,Privacy-enhanced,PRI,"4, 7",Stage 1,
+F01-07,F01,"Fair, with harmful bias managed",FAI,"1, 5, 7",Stage 1,
+F01-08,F01,CBRN information or capabilities,SAF,"4, 5",Stage 2,Content risk: layered guardrails and red-teaming (stage 2-3); CBRN mainly a model-developer concern
+F01-09,F01,Confabulation,REL,"1, 5",Stage 1,
+F01-10,F01,"Dangerous, violent, or hateful content",SAF,"4, 5",Stage 2,Harmful-content guardrails and tests (stage 2)
+F01-11,F01,Data privacy,PRI,"4, 7",Stage 1,
+F01-12,F01,Environmental impacts,SOC,,Not covered,Environmental impact: not covered (out of scope)
+F01-13,F01,Harmful bias or homogenization,FAI,"1, 5, 7",Stage 1,
+F01-14,F01,Human-AI configuration,HUM,"3, 6",Stage 1,
+F01-15,F01,Information integrity,SAF,"1, 4, 5",Stage 1,Information integrity: source-citing answers (step 4) and tests (stage 1); disinformation at scale out of scope
+F01-16,F01,Information security,SEC,4,Stage 1,
+F01-17,F01,Intellectual property,LAW,7,Stage 2,IP: legal check (stage 2)
+F01-18,F01,"Obscene, degrading, and/or abusive content",SAF,"4, 5",Stage 2,Content guardrails (stage 2)
+F01-19,F01,Value chain and component integration,SUP,"4, 7",Stage 2,Value chain: supplier vetting (stage 2-3)
+F02-01,F02,A.2 Policies related to AI,ACC,7,Stage 3,AI policy: organisational governance (stage 3)
+F02-02,F02,A.3 Internal organization,ACC,7,Stage 1,Roles: named owner (stage 1); reporting process stage 2-3
+F02-03,F02,A.4 Resources for AI systems,OTH,7,Stage 1,"Resources: one page lists data and tools (stage 1, light)"
+F02-04,F02,A.5 Assessing impacts of AI systems,RSK,7,Stage 2,Impact assessment (stage 2); stage-1 question 'who could be harmed'
+F02-05,F02,A.6 AI system life cycle,TST,"1, 4, 5, 7",Stage 1,"Life cycle: define good, test, logs, documentation"
+F02-06,F02,A.7 Data for AI systems,DAT,"4, 7",Stage 1,
+F02-07,F02,A.8 Information for interested parties,TRA,"4, 7",Stage 1,
+F02-08,F02,A.9 Use of AI systems,ACC,"3, 7",Stage 1,Responsible use in line with intended use: task definition and allocation
+F02-09,F02,A.10 Third-party and customer relationships,SUP,7,Stage 2,Supplier relationships (stage 2)
+F03-01,F03,Art. 4 AI literacy,LIT,"6, 7",Stage 1,
+F03-02,F03,Art. 9 Risk management system,RSK,"1, 5, 7",Stage 2,"Risk management system incl. testing (Art. 9); stage-1 steps feed it, full system stage 3"
+F03-03,F03,Art. 10 Data and data governance,DAT,"4, 7",Stage 1,
+F03-04,F03,Art. 11 Technical documentation,TRA,7,Stage 3,Technical documentation to regulatory standard (stage 3); one page at stage 1
+F03-05,F03,Art. 12 Record-keeping,ACC,"4, 7",Stage 2,Automatic logging/traces (stage 2); version logging at stage 1
+F03-06,F03,Art. 13 Transparency and information to deployers,TRA,"4, 7",Stage 1,
+F03-07,F03,Art. 14 Human oversight,HUM,"3, 6",Stage 1,
+F03-08,F03,"Art. 15 Accuracy, robustness and cybersecurity",REL,"1, 4, 5",Stage 1,
+F03-09,F03,Art. 50 Transparency obligations,TRA,"4, 7",Stage 1,
+F04-01,F04,Assess and bound the risks upfront,RSK,"2, 4",Stage 1,Bound risks upfront: steps 2 and 4
+F04-02,F04,Make humans meaningfully accountable,ACC,"6, 7",Stage 1,Accountability and human checkpoints; audit oversight
+F04-03,F04,Implement technical controls and processes,TST,"3, 4, 5",Stage 1,Technical controls; pre-deployment tests; gradual roll-out
+F04-04,F04,Enable end-user responsibility,TRA,"4, 6, 7",Stage 1,Inform users; train employees
+F05-01,F05,Transparency,TRA,"4, 7",Stage 1,
+F05-02,F05,Explainability,EXP,4,Stage 1,
+F05-03,F05,Repeatability / Reproducibility,RPR,"3, 4",Stage 1,
+F05-04,F05,Safety,SAF,"4, 5",Stage 1,"Partial at stage 1 (permissions, approvals, tests); content guardrails at stage 2"
+F05-05,F05,Security,SEC,4,Stage 1,
+F05-06,F05,Robustness,SEC,4,Stage 1,
+F05-07,F05,Fairness,FAI,"1, 5, 7",Stage 1,
+F05-08,F05,Data Governance,DAT,"4, 7",Stage 1,
+F05-09,F05,Accountability,ACC,7,Stage 1,
+F05-10,F05,Human Agency and Oversight,HUM,"3, 6",Stage 1,
+F05-11,F05,"Inclusive Growth, Societal and Environmental Well-being",SOC,,Not covered,Inclusive growth / environment: not covered (out of scope)
+F06-01,F06,Decide who is accountable,ACC,7,Stage 1,
+F06-02,F06,Understand impacts and plan accordingly,RSK,"1, 2, 5, 7",Stage 1,
+F06-03,F06,Measure and manage risks,RSK,"2, 7",Stage 1,
+F06-04,F06,Share essential information,TRA,"4, 7",Stage 1,
+F06-05,F06,Test and monitor,TST,"1, 5",Stage 1,
+F06-06,F06,Maintain human control,HUM,"3, 6",Stage 1,
+F07-01,F07,P1 Know what AI is and its limitations,LIT,"6, 7",Stage 1,
+F07-02,F07,"P2 Use AI lawfully, ethically and responsibly",LAW,7,Stage 2,
+F07-03,F07,P3 Use AI securely,SEC,4,Stage 1,
+F07-04,F07,P4 Meaningful human control,HUM,"3, 6",Stage 1,
+F07-05,F07,P5 Manage the full AI life cycle,LIT,"1, 7",Stage 1,"Life cycle understanding: briefing, the loop itself"
+F07-06,F07,P6 Right tool for the job,OTH,"2, 3",Stage 1,Right tool for the job = simplest design and code/model/person
+F07-07,F07,P7 Open and collaborative,TRA,"4, 7",Stage 1,
+F07-08,F07,P8 Work with commercial colleagues,SUP,7,Stage 2,Supplier contracts (stage 2)
+F07-09,F07,P9 Skills and expertise,LIT,"6, 7",Stage 1,
+F07-10,F07,P10 Organisational policies and assurance,ACC,7,Stage 1,"Own policies, escalation, assurance teams early"
+F08-01,F08,Fairness,FAI,"1, 5, 7",Stage 1,
+F08-02,F08,Explainability,EXP,4,Stage 1,
+F08-03,F08,Privacy and security,PRI,"4, 7",Stage 1,
+F08-04,F08,Safety,SAF,"4, 5",Stage 1,"Partial at stage 1 (permissions, approvals, tests); content guardrails at stage 2"
+F08-05,F08,Controllability,HUM,"3, 6",Stage 1,
+F08-06,F08,Veracity and robustness,REL,"1, 5",Stage 1,
+F08-07,F08,Governance,SUP,7,Stage 2,Supply chain governance (stage 2)
+F08-08,F08,Transparency,TRA,"4, 7",Stage 1,
+F09-01,F09,Fairness,FAI,"1, 5, 7",Stage 1,
+F09-02,F09,Reliability and safety,REL,"1, 4, 5",Stage 1,
+F09-03,F09,Privacy and security,PRI,"4, 7",Stage 1,
+F09-04,F09,Inclusiveness,SOC,1,Stage 1,Inclusiveness: test cases from different user groups (partial)
+F09-05,F09,Transparency,EXP,"4, 7",Stage 1,
+F09-06,F09,Accountability,ACC,7,Stage 1,
+F10-01,F10,Private,PRI,"4, 7",Stage 1,
+F10-02,F10,Transparent & Explainable,TRA,"4, 7",Stage 1,
+F10-03,F10,Fair & Impartial,FAI,"1, 5, 7",Stage 1,
+F10-04,F10,Responsible,SOC,,Not covered,Socially responsible: not covered beyond 'who could be harmed'
+F10-05,F10,Accountable,ACC,7,Stage 1,
+F10-06,F10,Robust & Reliable,REL,"1, 5",Stage 1,
+F10-07,F10,Safe & Secure,SAF,"4, 5",Stage 1,"Partial at stage 1 (permissions, approvals, tests); content guardrails at stage 2"
+F11-01,F11,Fairness,FAI,"1, 5, 7",Stage 1,
+F11-02,F11,Transparency,TRA,"4, 7",Stage 1,
+F11-03,F11,Explainability,EXP,4,Stage 1,
+F11-04,F11,Accountability,ACC,7,Stage 1,
+F11-05,F11,Data integrity,DAT,"4, 7",Stage 1,
+F11-06,F11,Reliability,REL,"1, 5",Stage 1,
+F11-07,F11,Security,SEC,4,Stage 1,
+F11-08,F11,Safety,SAF,"4, 5",Stage 1,"Partial at stage 1 (permissions, approvals, tests); content guardrails at stage 2"
+F11-09,F11,Privacy,PRI,"4, 7",Stage 1,
+F11-10,F11,Sustainability,SOC,,Not covered,Sustainability: not covered (out of scope)
+F12-01,F12,Accuracy,REL,"1, 2, 4, 5",Stage 1,
+F12-02,F12,Safety,SAF,"4, 5",Stage 1,"Partial at stage 1 (permissions, approvals, tests); content guardrails at stage 2"
+F12-03,F12,Honesty,TRA,"4, 7",Stage 1,
+F12-04,F12,Empowerment,HUM,"3, 6",Stage 1,Human-AI partnership: allocation and hand-offs; accessibility not covered
+F12-05,F12,Sustainability,SOC,,Not covered,Sustainability: not covered (out of scope)
+F13-01,F13,Visible,TRA,"4, 7",Stage 1,
+F13-02,F13,Understandable,EXP,4,Stage 1,
+F13-03,F13,Repeatable,RPR,"3, 4",Stage 1,
+F13-04,F13,Auditable,ACC,7,Stage 1,

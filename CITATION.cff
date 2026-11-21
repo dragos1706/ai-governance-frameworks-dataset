@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Codings of 13 trustworthy-AI frameworks, with a crosswalk to a seven-step practitioner's loop"
+version: 1.0.0
+date-released: 2026-11-21
+license: CC-BY-4.0
+repository-code: "https://github.com/dragos1706/ai-governance-frameworks-dataset"
+authors:
+  - family-names: Tomescu
+    given-names: Dragos
+abstract: "108 headline items from 13 trustworthy-AI frameworks (7 public, 6 company), coded against 19 themes and mapped to a seven-step practitioner's loop. First coding by Claude (Anthropic), blind second coding by Gemini (Google), disagreements settled by the author. Labels and codes only; no framework text."
+keywords:
+  - trustworthy AI
+  - AI governance
+  - responsible AI
+  - generative AI
+  - AI agents
+  - content analysis

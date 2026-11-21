@@ -1,0 +1,192 @@
+item_id,theme,strength,primary,rule_applied,note
+F01-01,REL,Named,Y,2,
+F01-02,SAF,Named,Y,2,
+F01-02,SOC,Mentioned,N,6,"Environment is endangered, in the official definition."
+F01-03,SEC,Named,Y,2,
+F01-03,REL,Mentioned,N,6,Resilience to unexpected conditions is robustness.
+F01-04,ACC,Named,Y,5,Combined label. Accountability primary because tracing and documenting serve accountability.
+F01-04,TRA,Named,N,5,
+F01-05,EXP,Named,Y,2,
+F01-06,PRI,Named,Y,2,
+F01-07,FAI,Named,Y,2,
+F01-08,SAF,Named,Y,3,
+F01-09,REL,Named,Y,3,Codebook example.
+F01-10,SAF,Named,Y,3,
+F01-10,FAI,Mentioned,N,6,"Stereotyping content, in the official definition."
+F01-11,PRI,Named,Y,3,
+F01-12,SOC,Named,Y,3,
+F01-13,FAI,Named,Y,3,
+F01-13,DAT,Mentioned,N,6,"Non-representative training data, in the official definition."
+F01-13,REL,Mentioned,N,6,"Outputs ""may be erroneous"", in the official definition."
+F01-13,SOC,Mentioned,N,6,"Homogenisation (uniform outputs) is a societal effect, not unfair treatment. Unsure."
+F01-14,HUM,Named,Y,3,Over-reliance and automation bias weaken oversight. Unsure: could be a human-factors theme (OTH).
+F01-15,SAF,Named,Y,3,Misinformation as harm from use. Unsure: SOC is defensible.
+F01-16,SEC,Named,Y,3,
+F01-17,LAW,Named,Y,3,
+F01-18,SAF,Named,Y,3,
+F01-19,SUP,Named,Y,7,Converted from OTH (supply chain) under v1.1.
+F01-19,ACC,Mentioned,N,6,"Diminish transparency or accountability, in the official definition."
+F01-19,DAT,Mentioned,N,6,Third-party data.
+F01-19,TRA,Mentioned,N,6,Non-transparent integration.
+F02-01,ACC,Named,Y,2,An organisation-wide AI policy is governance.
+F02-02,ACC,Named,Y,2,"Roles, responsibilities and a route to report concerns."
+F02-03,OTH,Named,Y,7,"Theme: resourcing (data, tools, compute, people)."
+F02-03,DAT,Mentioned,N,6,Data resources.
+F02-03,LIT,Mentioned,N,6,Converted from OTH (AI literacy and skills) under v1.1. Human resources and competence. Unsure.
+F02-04,RSK,Named,Y,4,
+F02-04,SOC,Mentioned,N,6,Impacts on society.
+F02-05,TST,Named,Y,4,"Verification, validation, operation and monitoring. Unsure: the item is broad life-cycle management."
+F02-05,ACC,Mentioned,N,6,"Event logs, treated as audit trail."
+F02-05,TRA,Mentioned,N,6,Technical documentation.
+F02-06,DAT,Named,Y,2,
+F02-07,TRA,Named,Y,2,
+F02-07,ACC,Mentioned,N,6,Route for people to report adverse impacts.
+F02-08,ACC,Named,Y,8,"Responsible use within intended purpose, as governance of use. Unsure: no dimension fits well."
+F02-09,SUP,Named,Y,7,Converted from OTH (supply chain) under v1.1.
+F02-09,ACC,Mentioned,N,6,Allocating responsibilities with suppliers and customers.
+F03-01,LIT,Named,Y,7,Converted from OTH (AI literacy and skills) under v1.1.
+F03-02,RSK,Named,Y,2,
+F03-03,DAT,Named,Y,2,
+F03-03,FAI,Mentioned,N,9,Representative data is about bias.
+F03-04,TRA,Named,Y,2,
+F03-05,ACC,Named,Y,2,"Automatic logs, treated as audit trail (codebook ACC)."
+F03-05,TRA,Mentioned,N,6,Traceability of operation.
+F03-06,TRA,Named,Y,2,
+F03-06,EXP,Mentioned,N,6,Deployers understand the output.
+F03-07,HUM,Named,Y,2,
+F03-07,LIT,Mentioned,N,6,Converted from OTH (AI literacy and skills) under v1.1. Overseers trained.
+F03-08,REL,Named,Y,5,Combined label: accuracy and robustness.
+F03-08,SEC,Named,N,5,Cybersecurity.
+F03-09,TRA,Named,Y,2,
+F04-01,RSK,Named,Y,4,
+F04-01,ACT,Named,N,10,Stated goal: define agents' limits and permissions.
+F04-01,SEC,Mentioned,N,6,Identity management and access controls for agents.
+F04-01,TRA,Mentioned,N,6,"Actions traceable, in the official summary."
+F04-02,ACC,Named,Y,2,
+F04-02,HUM,Named,N,10,Human approval checkpoints (codebook HUM borderline).
+F04-02,SUP,Mentioned,N,6,Responsibilities defined with external vendors.
+F04-03,TST,Named,Y,4,"Testing before deployment and monitoring. ""Technical controls"" unspecified."
+F04-03,REL,Mentioned,N,6,Reliably.
+F04-03,SAF,Mentioned,N,6,Safely.
+F04-03,SEC,Mentioned,N,6,New attack surfaces from agentic components.
+F04-04,TRA,Named,Y,10,Inform users of the agent's range of actions.
+F04-04,HUM,Mentioned,N,6,Train employees to exercise effective oversight.
+F04-04,LIT,Named,N,10,Converted from OTH (AI literacy and skills) under v1.1. Education and training.
+F05-01,TRA,Named,Y,2,
+F05-02,EXP,Named,Y,2,
+F05-03,RPR,Named,Y,2,
+F05-03,REL,Mentioned,N,6,Consistently perform required functions.
+F05-04,SAF,Named,Y,2,
+F05-05,SEC,Named,Y,2,
+F05-06,SEC,Named,Y,2,"Label is robustness, but the description is about attacks: meaning over label."
+F05-06,REL,Mentioned,N,6,"Robustness, from the label."
+F05-07,FAI,Named,Y,2,
+F05-08,DAT,Named,Y,2,
+F05-08,LAW,Mentioned,N,6,"Compliance, in the fuller definition retrieved 19 Nov."
+F05-09,ACC,Named,Y,2,
+F05-10,HUM,Named,Y,2,
+F05-11,SOC,Named,Y,2,Coded from the full definition retrieved 19 Nov.
+F06-01,ACC,Named,Y,4,
+F06-02,RSK,Named,Y,4,Codebook example.
+F06-02,FAI,Mentioned,N,6,Fair treatment in description. Unsure whether this is the main point (Named).
+F06-03,RSK,Named,Y,4,
+F06-04,TRA,Named,Y,4,
+F06-04,EXP,Named,N,4,Description names both transparency and explainability.
+F06-05,TST,Named,Y,4,Codebook example.
+F06-05,REL,Mentioned,N,6,"Quality, reliability. ""Protection"" left uncoded: unclear whether safety or security."
+F06-06,HUM,Named,Y,4,
+F07-01,LIT,Named,Y,7,Converted from OTH (AI literacy and skills) under v1.1.
+F07-01,REL,Mentioned,N,6,"AI is not always accurate, from the fuller explanation."
+F07-01,TST,Mentioned,N,6,"Test it, from the fuller explanation."
+F07-02,LAW,Named,Y,2,Codebook LAW borderline.
+F07-02,ACC,Mentioned,N,6,Codebook LAW borderline.
+F07-03,SEC,Named,Y,2,
+F07-04,HUM,Named,Y,2,
+F07-04,SAF,Mentioned,N,6,Prevent harmful effects on users.
+F07-05,OTH,Named,Y,7,Theme: life-cycle management.
+F07-06,OTH,Named,Y,7,Theme: use-case fit (choosing the right technology).
+F07-07,OTH,Named,Y,7,Theme: collaboration and sharing between teams.
+F07-07,TRA,Named,N,10,"Stated goal: be open with the public about where AI is used, label automated replies. From the fuller explanation."
+F07-08,SUP,Named,Y,7,Converted from OTH (supply chain: procurement) under v1.1.
+F07-08,ACC,Mentioned,N,6,Contracts set responsible-use expectations for suppliers.
+F07-09,LIT,Named,Y,7,Converted from OTH (AI literacy and skills) under v1.1.
+F07-10,ACC,Named,Y,2,Policies and assurance.
+F07-10,DAT,Mentioned,N,9,Data handling is ambiguous.
+F07-10,PRI,Mentioned,N,9,Data handling is ambiguous.
+F07-10,RSK,Mentioned,N,6,Manage AI risks.
+F07-10,SEC,Mentioned,N,6,Policies on security.
+F08-01,FAI,Named,Y,2,
+F08-02,EXP,Named,Y,2,
+F08-03,PRI,Named,Y,5,Combined label (codebook PRI borderline). Privacy primary: obtaining and using data.
+F08-03,SEC,Named,N,5,Protecting data and models.
+F08-04,SAF,Named,Y,2,
+F08-05,HUM,Named,Y,2,Monitor and steer. Unsure: steering mechanisms could be ACT.
+F08-06,REL,Named,Y,2,
+F08-06,SEC,Mentioned,N,6,Adversarial inputs.
+F08-07,SUP,Named,Y,2,"Converted from OTH (supply chain) under v1.1. Label is governance, but the description is about the AI supply chain."
+F08-07,ACC,Named,N,2,"Governance, from the label."
+F08-08,TRA,Named,Y,2,
+F09-01,FAI,Named,Y,2,
+F09-02,REL,Named,Y,5,Combined label.
+F09-02,SAF,Named,N,5,
+F09-03,PRI,Named,Y,5,Combined label; privacy primary for consistency with AWS. Unsure.
+F09-03,SEC,Named,N,5,
+F09-04,SOC,Named,Y,2,Codebook FAI borderline.
+F09-05,EXP,Named,Y,2,"Label is transparency, but ""should be understandable"" is explainability: meaning over label."
+F09-05,TRA,Named,N,2,From the label.
+F09-06,ACC,Named,Y,2,
+F10-01,PRI,Named,Y,2,
+F10-02,TRA,Named,Y,5,Combined label.
+F10-02,ACC,Mentioned,N,6,Auditable.
+F10-02,EXP,Named,N,5,
+F10-03,FAI,Named,Y,2,
+F10-03,SOC,Mentioned,N,6,Inclusive design and equitable access.
+F10-04,SOC,Named,Y,2,Socially responsible.
+F10-05,ACC,Named,Y,2,
+F10-06,REL,Named,Y,2,
+F10-06,RPR,Mentioned,N,6,Consistent outputs (codebook RPR borderline).
+F10-06,SAF,Mentioned,N,9,Misuse is ambiguous.
+F10-06,SEC,Mentioned,N,9,Misuse is ambiguous.
+F10-07,SAF,Named,Y,5,Combined label.
+F10-07,SEC,Named,N,5,
+F10-07,SOC,Mentioned,N,6,Environmental harm.
+F11-01,FAI,Named,Y,2,
+F11-02,TRA,Named,Y,2,
+F11-03,EXP,Named,Y,2,
+F11-04,ACC,Named,Y,2,
+F11-04,HUM,Mentioned,N,6,Human oversight embedded.
+F11-04,LAW,Mentioned,N,6,Legal and regulatory obligations.
+F11-05,DAT,Named,Y,2,Codebook DAT borderline.
+F11-05,LAW,Mentioned,N,6,Acquired in compliance with laws.
+F11-06,REL,Named,Y,2,
+F11-06,RPR,Mentioned,N,6,Consistently operate (codebook RPR borderline).
+F11-07,SEC,Named,Y,2,
+F11-07,REL,Mentioned,N,6,Resilience to unexpected incidents.
+F11-07,SAF,Mentioned,N,9,False information: treated like NIST information integrity (SAF). Unsure.
+F11-08,SAF,Named,Y,2,
+F11-09,PRI,Named,Y,2,"Privacy law is PRI, not LAW (codebook)."
+F11-10,SOC,Named,Y,2,Codebook SOC borderline.
+F12-01,REL,Named,Y,2,
+F12-01,ACT,Named,N,10,"Stated goal: build agents with clear limits on allowed instructions, policies and actions (full description)."
+F12-01,EXP,Mentioned,N,6,Explanations let users check responses.
+F12-01,TRA,Mentioned,N,6,Citations let users check responses.
+F12-02,SAF,Named,Y,2,
+F12-02,EXP,Mentioned,N,6,Explainability assessments.
+F12-02,FAI,Mentioned,N,6,Bias.
+F12-02,PRI,Mentioned,N,6,Protect personal information.
+F12-02,REL,Mentioned,N,6,Robustness assessments.
+F12-02,SEC,Mentioned,N,9,Adversarial testing is ambiguous (attacks or harmful content).
+F12-02,TST,Mentioned,N,6,Assessments.
+F12-03,DAT,Named,Y,2,"Label is honesty, but the description is about data provenance and consent."
+F12-03,LAW,Mentioned,N,9,Consent to use data is ambiguous.
+F12-03,PRI,Mentioned,N,9,Consent to use data is ambiguous.
+F12-03,TRA,Named,N,10,"Stated goal: transparent that AI created content (chatbot disclaimer, watermarks)."
+F12-04,HUM,Named,Y,2,Hand-offs between agent and human.
+F12-04,SOC,Mentioned,N,6,Accessibility as core.
+F12-05,SOC,Named,Y,2,
+F13-01,TRA,Named,Y,2,Codebook example.
+F13-02,EXP,Named,Y,2,Codebook example.
+F13-03,RPR,Named,Y,2,Codebook example.
+F13-04,ACC,Named,Y,2,Codebook example.
+F13-04,HUM,Mentioned,N,6,Records where humans provided oversight.
+F13-04,TRA,Mentioned,N,6,

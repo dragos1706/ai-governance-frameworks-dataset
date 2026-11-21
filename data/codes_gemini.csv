@@ -1,0 +1,201 @@
+item_id,theme,strength,primary,rule_applied,note
+F01-01,REL,Named,Y,6,
+F01-02,SAF,Named,Y,6,
+F01-03,SEC,Named,Y,5,
+F01-03,REL,Named,N,6,Resilience to unexpected changes coded to REL
+F01-04,ACC,Named,Y,5,
+F01-04,TRA,Named,N,6,
+F01-05,EXP,Named,Y,6,
+F01-06,PRI,Named,Y,6,
+F01-07,FAI,Named,Y,6,
+F01-08,SAF,Named,Y,3,
+F01-09,REL,Named,Y,3,
+F01-10,SAF,Named,Y,3,
+F01-11,PRI,Named,Y,3,
+F01-12,SOC,Named,Y,3,
+F01-13,FAI,Named,Y,3,
+F01-13,DAT,Mentioned,N,6,Non-representative training data
+F01-13,REL,Mentioned,N,6,Erroneous outputs from homogenization
+F01-14,HUM,Named,Y,3,Human-AI interaction and automation bias addressed by HUM; also touches TRA and LIT
+F01-14,LIT,Mentioned,N,3,Over-reliance and aversion relate to user understanding of AI limits
+F01-15,SAF,Named,Y,3,Misuse for disinformation campaigns addressed by SAF; also touches REL and TRA
+F01-15,REL,Mentioned,N,6,Distinguishing fact from fiction relates to output accuracy
+F01-15,TRA,Mentioned,N,6,Distinguishing AI-generated content relates to disclosure
+F01-16,SEC,Named,Y,3,
+F01-16,SAF,Mentioned,N,3,Misuse for offensive cyber operations also addressed by SAF
+F01-17,LAW,Named,Y,3,
+F01-18,SAF,Named,Y,3,
+F01-19,SUP,Named,Y,3,
+F01-19,ACC,Mentioned,N,6,Diminished accountability for downstream users
+F01-19,DAT,Mentioned,N,6,Upstream data improperly obtained or not cleaned
+F01-19,TRA,Mentioned,N,6,Diminished transparency for downstream users
+F02-01,ACC,Named,Y,2,
+F02-02,ACC,Named,Y,2,
+F02-03,OTH,Named,Y,7,"Resource identification and documentation (data, tooling, compute, human resources)"
+F02-04,RSK,Named,Y,6,
+F02-04,SOC,Mentioned,N,6,"Impacts on individuals, groups and society"
+F02-05,TST,Named,Y,5,"Lifecycle verification, validation and monitoring"
+F02-05,ACC,Mentioned,N,6,Event logs for auditability
+F02-05,REL,Mentioned,N,4,Verification and validation ensure system validity
+F02-05,TRA,Mentioned,N,6,Technical documentation
+F02-06,DAT,Named,Y,6,
+F02-07,TRA,Named,Y,5,
+F02-07,ACC,Mentioned,N,6,Mechanism to report adverse impacts
+F02-07,TST,Mentioned,N,6,Communicating incidents
+F02-08,ACC,Named,Y,8,Governance processes for responsible use; also relates to SAF misuse prevention
+F02-08,SAF,Mentioned,N,2,Use in line with intended use relates to preventing misuse
+F02-09,SUP,Named,Y,6,
+F02-09,ACC,Mentioned,N,6,Allocating responsibilities with suppliers and customers
+F03-01,LIT,Named,Y,6,
+F03-02,RSK,Named,Y,6,
+F03-03,DAT,Named,Y,6,
+F03-03,FAI,Mentioned,N,2,Representative data addresses bias
+F03-04,TRA,Named,Y,2,
+F03-05,ACC,Named,Y,2,Event logs for traceability coded to ACC per codebook
+F03-06,TRA,Named,Y,6,
+F03-06,EXP,Mentioned,N,6,Understanding system output
+F03-07,HUM,Named,Y,6,
+F03-07,LIT,Mentioned,N,6,Training overseers for the role
+F03-08,REL,Named,Y,5,
+F03-08,SAF,Mentioned,N,6,Resisting misuse relates to SAF
+F03-08,SEC,Named,N,6,
+F03-09,TRA,Named,Y,6,
+F04-01,RSK,Named,Y,5,
+F04-01,ACC,Mentioned,N,6,Traceable agent actions
+F04-01,ACT,Named,N,6,Limiting agent access to tools and external systems
+F04-01,HUM,Mentioned,N,6,Controllable agent actions
+F04-01,SEC,Mentioned,N,6,Identity management and access controls
+F04-02,ACC,Named,Y,5,
+F04-02,HUM,Mentioned,N,6,Human-in-the-loop checkpoints and auditing human oversight
+F04-02,SUP,Mentioned,N,6,Responsibilities with external vendors
+F04-03,SAF,Named,Y,10,
+F04-03,REL,Named,N,10,
+F04-03,SEC,Mentioned,N,6,Addressing attack surfaces in agentic components
+F04-03,TST,Mentioned,N,6,Pre-deployment testing and continuous post-deployment monitoring
+F04-04,LIT,Named,Y,2,Training employees to understand and manage human-agent interactions
+F04-04,ACC,Mentioned,N,6,Clarifying end-user responsibilities
+F04-04,HUM,Mentioned,N,6,Exercising effective human oversight
+F04-04,TRA,Mentioned,N,6,Informing users of agent range of actions and data access
+F05-01,TRA,Named,Y,6,
+F05-01,EXP,Mentioned,N,6,Understanding the outcome
+F05-02,EXP,Named,Y,6,
+F05-03,RPR,Named,Y,6,
+F05-03,REL,Mentioned,N,6,Consistently performing required functions over time
+F05-04,SAF,Named,Y,6,
+F05-05,SEC,Named,Y,6,
+F05-06,SEC,Named,Y,2,Labelled Robustness but description specifically addresses malicious attacks
+F05-07,FAI,Named,Y,6,
+F05-08,DAT,Named,Y,6,
+F05-08,ACC,Mentioned,N,6,Clear authority and decision rules
+F05-08,LAW,Mentioned,N,6,Data compliance
+F05-09,ACC,Named,Y,6,
+F05-10,HUM,Named,Y,6,
+F05-11,SOC,Named,Y,6,
+F06-01,ACC,Named,Y,6,
+F06-02,RSK,Named,Y,2,Stakeholder rights could also touch LAW or SOC
+F06-02,FAI,Named,N,10,Fair treatment stated as goal in description
+F06-03,RSK,Named,Y,6,
+F06-04,TRA,Named,Y,10,
+F06-04,EXP,Named,N,10,
+F06-05,TST,Named,Y,6,
+F06-05,REL,Mentioned,N,6,Quality and reliability of AI systems
+F06-05,SAF,Mentioned,N,9,Protection points to both SEC and SAF
+F06-05,SEC,Mentioned,N,9,Protection points to both SEC and SAF
+F06-06,HUM,Named,Y,6,
+F07-01,LIT,Named,Y,2,
+F07-01,REL,Mentioned,N,6,AI is not always accurate
+F07-01,RSK,Mentioned,N,6,Understanding AI risks
+F07-01,TST,Mentioned,N,6,Testing AI
+F07-02,LAW,Named,Y,5,
+F07-02,ACC,Mentioned,N,5,
+F07-03,SEC,Named,Y,6,
+F07-04,HUM,Named,Y,6,
+F07-04,SAF,Mentioned,N,6,Preventing harmful effects on users
+F07-04,TST,Mentioned,N,6,Monitoring AI behaviour
+F07-05,LIT,Named,Y,8,Understanding lifecycle management; also touches ACC governance
+F07-05,ACC,Mentioned,N,2,Managing the full AI life cycle
+F07-06,OTH,Named,Y,7,Appropriate technology and tool selection
+F07-07,TRA,Named,Y,2,Also includes collaboration and reuse alongside public AI disclosure
+F07-08,SUP,Named,Y,2,
+F07-09,LIT,Named,Y,2,
+F07-10,ACC,Named,Y,5,"Organisational policies, assurance, review and escalation"
+F07-10,DAT,Mentioned,N,9,Data handling points to both DAT and PRI
+F07-10,HUM,Mentioned,N,6,Clear review and escalation processes
+F07-10,PRI,Mentioned,N,9,Data handling points to both DAT and PRI
+F07-10,RSK,Mentioned,N,6,Managing AI risks
+F07-10,SEC,Mentioned,N,6,Security policies
+F08-01,FAI,Named,Y,6,
+F08-02,EXP,Named,Y,6,
+F08-03,PRI,Named,Y,5,Combined label; both PRI and SEC named per codebook
+F08-03,SEC,Named,N,5,Combined label; both PRI and SEC named per codebook
+F08-04,SAF,Named,Y,6,
+F08-05,HUM,Named,Y,2,
+F08-05,TST,Mentioned,N,6,Monitoring AI system behaviour
+F08-06,REL,Named,Y,5,
+F08-06,SEC,Mentioned,N,6,Resisting adversarial inputs
+F08-07,SUP,Named,Y,2,
+F08-07,ACC,Named,N,2,
+F08-08,TRA,Named,Y,6,
+F09-01,FAI,Named,Y,6,
+F09-02,REL,Named,Y,5,
+F09-02,SAF,Named,N,6,
+F09-03,PRI,Named,Y,5,
+F09-03,SEC,Named,N,6,
+F09-04,SOC,Named,Y,2,
+F09-05,TRA,Named,Y,6,
+F09-05,EXP,Mentioned,N,6,Description says understandable which points to EXP
+F09-06,ACC,Named,Y,6,
+F10-01,PRI,Named,Y,6,
+F10-02,TRA,Named,Y,5,
+F10-02,ACC,Mentioned,N,6,Auditable and open to inspection
+F10-02,EXP,Named,N,6,
+F10-03,FAI,Named,Y,6,
+F10-03,SOC,Mentioned,N,6,Inclusive design and equitable access
+F10-04,ACC,Named,Y,8,Responsible maps to ACC; socially responsible also touches SOC
+F10-04,SOC,Mentioned,N,6,Socially responsible operation
+F10-05,ACC,Named,Y,6,
+F10-06,REL,Named,Y,6,
+F10-06,RPR,Mentioned,N,2,Consistent outputs relates to RPR without naming repeatability
+F10-06,SAF,Mentioned,N,9,Misuse points to SAF and SEC
+F10-06,SEC,Mentioned,N,9,Misuse points to SAF and SEC
+F10-07,SAF,Named,Y,5,
+F10-07,SEC,Named,N,5,
+F11-01,FAI,Named,Y,6,
+F11-02,TRA,Named,Y,6,
+F11-02,EXP,Mentioned,N,6,Explaining AI life cycle to those affected
+F11-03,EXP,Named,Y,6,
+F11-04,ACC,Named,Y,6,
+F11-04,HUM,Mentioned,N,6,Human oversight
+F11-04,LAW,Mentioned,N,6,Meeting legal and regulatory obligations
+F11-04,RSK,Mentioned,N,6,Managing risk
+F11-05,DAT,Named,Y,2,
+F11-05,LAW,Mentioned,N,6,Data acquired in compliance with laws and regulations
+F11-06,REL,Named,Y,6,
+F11-06,RPR,Mentioned,N,2,Consistent operation relates to RPR without naming repeatability
+F11-07,SEC,Named,Y,6,
+F11-07,REL,Mentioned,N,6,Resilience to unexpected incidents
+F11-08,SAF,Named,Y,6,
+F11-09,PRI,Named,Y,6,
+F11-10,SOC,Named,Y,2,
+F12-01,REL,Named,Y,6,
+F12-01,ACT,Mentioned,N,6,Building agents with clear limits on instructions and actions
+F12-01,EXP,Mentioned,N,6,Explanations to verify responses
+F12-01,TRA,Mentioned,N,6,Citations allow tracing output sources
+F12-02,SAF,Named,Y,6,
+F12-02,EXP,Mentioned,N,6,Explainability assessments
+F12-02,FAI,Mentioned,N,6,Mitigating bias and bias assessments
+F12-02,PRI,Mentioned,N,6,Protecting personal information in training data and agent replies
+F12-02,REL,Mentioned,N,6,Robustness assessments
+F12-02,SEC,Mentioned,N,6,Adversarial testing
+F12-02,TST,Mentioned,N,6,Assessments and adversarial testing
+F12-03,TRA,Named,Y,2,Transparency of AI-created content via disclaimers and watermarks
+F12-03,DAT,Mentioned,N,6,Proper source tracking and provenance for training and evaluation data
+F12-03,PRI,Mentioned,N,6,Consent for training and evaluation data
+F12-04,HUM,Named,Y,2,Meaningful hand-offs and keeping AI in an assisting role
+F12-04,SOC,Mentioned,N,6,Supporting human abilities and accessibility
+F12-05,SOC,Named,Y,2,
+F13-01,TRA,Named,Y,2,
+F13-02,EXP,Named,Y,2,
+F13-03,RPR,Named,Y,2,
+F13-04,ACC,Named,Y,2,
+F13-04,HUM,Mentioned,N,6,Trail records where humans provided oversight

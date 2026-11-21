@@ -1,0 +1,208 @@
+item_id,theme,strength,primary,source_of_code,adjudication_decision
+F01-01,REL,Named,Y,Both coders,
+F01-02,SAF,Named,Y,Both coders,
+F01-02,SOC,Mentioned,N,Claude only; kept,16
+F01-03,SEC,Named,Y,Both coders,
+F01-03,REL,Named,N,Referee,15
+F01-04,ACC,Named,Y,Both coders,
+F01-04,TRA,Named,N,Both coders,
+F01-05,EXP,Named,Y,Both coders,
+F01-06,PRI,Named,Y,Both coders,
+F01-07,FAI,Named,Y,Both coders,
+F01-08,SAF,Named,Y,Both coders,
+F01-09,REL,Named,Y,Both coders,
+F01-10,SAF,Named,Y,Both coders,
+F01-10,FAI,Mentioned,N,Claude only; kept,16
+F01-11,PRI,Named,Y,Both coders,
+F01-12,SOC,Named,Y,Both coders,
+F01-13,FAI,Named,Y,Both coders,
+F01-13,DAT,Mentioned,N,Both coders,
+F01-13,REL,Mentioned,N,Both coders,
+F01-13,SOC,Mentioned,N,Claude only; kept,5
+F01-14,HUM,Named,Y,Both coders,
+F01-15,SAF,Named,Y,Both coders,
+F01-15,REL,Mentioned,N,Gemini only; kept,16
+F01-16,SEC,Named,Y,Both coders,
+F01-16,SAF,Mentioned,N,Gemini only; kept,16
+F01-17,LAW,Named,Y,Both coders,
+F01-18,SAF,Named,Y,Both coders,
+F01-19,SUP,Named,Y,Both coders,
+F01-19,ACC,Mentioned,N,Both coders,
+F01-19,DAT,Mentioned,N,Both coders,
+F01-19,TRA,Mentioned,N,Both coders,
+F02-01,ACC,Named,Y,Both coders,
+F02-02,ACC,Named,Y,Both coders,
+F02-03,OTH,Named,Y,Both coders,
+F02-03,DAT,Mentioned,N,Claude only; kept,16
+F02-04,RSK,Named,Y,Both coders,
+F02-04,SOC,Mentioned,N,Both coders,
+F02-05,TST,Named,Y,Both coders,
+F02-05,ACC,Mentioned,N,Both coders,
+F02-05,REL,Mentioned,N,Gemini only; kept,16
+F02-05,TRA,Mentioned,N,Both coders,
+F02-06,DAT,Named,Y,Both coders,
+F02-07,TRA,Named,Y,Both coders,
+F02-07,ACC,Mentioned,N,Both coders,
+F02-07,TST,Mentioned,N,Gemini only; kept,16
+F02-08,ACC,Named,Y,Both coders,
+F02-09,SUP,Named,Y,Both coders,
+F02-09,ACC,Mentioned,N,Both coders,
+F03-01,LIT,Named,Y,Both coders,
+F03-02,RSK,Named,Y,Both coders,
+F03-03,DAT,Named,Y,Both coders,
+F03-03,FAI,Mentioned,N,Both coders,
+F03-04,TRA,Named,Y,Both coders,
+F03-05,ACC,Named,Y,Both coders,
+F03-05,TRA,Mentioned,N,Claude only; kept,16
+F03-06,TRA,Named,Y,Both coders,
+F03-06,EXP,Mentioned,N,Both coders,
+F03-07,HUM,Named,Y,Both coders,
+F03-07,LIT,Mentioned,N,Both coders,
+F03-08,REL,Named,Y,Both coders,
+F03-08,SEC,Named,N,Both coders,
+F03-08,SAF,Mentioned,N,Gemini only; kept,16
+F03-09,TRA,Named,Y,Both coders,
+F04-01,RSK,Named,Y,Both coders,
+F04-01,ACT,Named,N,Both coders,
+F04-01,ACC,Mentioned,N,Gemini only; kept,16
+F04-01,HUM,Mentioned,N,Gemini only; kept,16
+F04-01,SEC,Mentioned,N,Both coders,
+F04-01,TRA,Mentioned,N,Claude only; kept,16
+F04-02,ACC,Named,Y,Both coders,
+F04-02,HUM,Named,N,Referee,15
+F04-02,SUP,Mentioned,N,Both coders,
+F04-03,TST,Named,Y,Referee,11
+F04-03,REL,Named,N,Referee,11
+F04-03,SAF,Named,N,Referee,11
+F04-03,SEC,Mentioned,N,Both coders,
+F04-04,TRA,Named,Y,Referee,12
+F04-04,LIT,Named,N,Referee,12
+F04-04,ACC,Mentioned,N,Gemini only; kept,12
+F04-04,HUM,Mentioned,N,Gemini only; kept,12
+F05-01,TRA,Named,Y,Both coders,
+F05-01,EXP,Mentioned,N,Gemini only; kept,16
+F05-02,EXP,Named,Y,Both coders,
+F05-03,RPR,Named,Y,Both coders,
+F05-03,REL,Mentioned,N,Both coders,
+F05-04,SAF,Named,Y,Both coders,
+F05-05,SEC,Named,Y,Both coders,
+F05-06,SEC,Named,Y,Both coders,
+F05-06,REL,Mentioned,N,Claude only; kept,16
+F05-07,FAI,Named,Y,Both coders,
+F05-08,DAT,Named,Y,Both coders,
+F05-08,ACC,Mentioned,N,Gemini only; kept,16
+F05-08,LAW,Mentioned,N,Both coders,
+F05-09,ACC,Named,Y,Both coders,
+F05-10,HUM,Named,Y,Both coders,
+F05-11,SOC,Named,Y,Both coders,
+F06-01,ACC,Named,Y,Both coders,
+F06-02,RSK,Named,Y,Both coders,
+F06-02,FAI,Named,N,Referee,15
+F06-02,LAW,Mentioned,N,Referee (pilot),3
+F06-02,SOC,Mentioned,N,Referee (pilot),3
+F06-03,RSK,Named,Y,Both coders,
+F06-04,TRA,Named,Y,Both coders,
+F06-04,EXP,Named,N,Both coders,
+F06-05,TST,Named,Y,Both coders,
+F06-05,REL,Mentioned,N,Both coders,
+F06-05,SAF,Mentioned,N,Gemini only; kept,2
+F06-05,SEC,Mentioned,N,Gemini only; kept,2
+F06-06,HUM,Named,Y,Both coders,
+F07-01,LIT,Named,Y,Both coders,
+F07-01,REL,Mentioned,N,Both coders,
+F07-01,TST,Mentioned,N,Both coders,
+F07-02,LAW,Named,Y,Both coders,
+F07-02,ACC,Mentioned,N,Both coders,
+F07-03,SEC,Named,Y,Both coders,
+F07-04,HUM,Named,Y,Both coders,
+F07-04,SAF,Mentioned,N,Both coders,
+F07-04,TST,Mentioned,N,Gemini only; kept,16
+F07-05,LIT,Named,Y,Referee,13
+F07-05,OTH,Mentioned,N,Referee,13
+F07-06,OTH,Named,Y,Both coders,
+F07-07,TRA,Named,Y,Referee,14
+F07-07,OTH,Named,N,Referee,14
+F07-08,SUP,Named,Y,Both coders,
+F07-08,ACC,Mentioned,N,Claude only; kept,16
+F07-09,LIT,Named,Y,Both coders,
+F07-10,ACC,Named,Y,Both coders,
+F07-10,DAT,Mentioned,N,Both coders,
+F07-10,HUM,Mentioned,N,Gemini only; kept,16
+F07-10,PRI,Mentioned,N,Both coders,
+F07-10,RSK,Mentioned,N,Both coders,
+F07-10,SEC,Mentioned,N,Both coders,
+F08-01,FAI,Named,Y,Both coders,
+F08-02,EXP,Named,Y,Both coders,
+F08-03,PRI,Named,Y,Both coders,
+F08-03,SEC,Named,N,Both coders,
+F08-04,SAF,Named,Y,Both coders,
+F08-05,HUM,Named,Y,Both coders,
+F08-05,TST,Mentioned,N,Gemini only; kept,16
+F08-06,REL,Named,Y,Both coders,
+F08-06,SEC,Mentioned,N,Both coders,
+F08-07,SUP,Named,Y,Both coders,
+F08-07,ACC,Named,N,Both coders,
+F08-08,TRA,Named,Y,Both coders,
+F09-01,FAI,Named,Y,Both coders,
+F09-02,REL,Named,Y,Both coders,
+F09-02,SAF,Named,N,Both coders,
+F09-03,PRI,Named,Y,Both coders,
+F09-03,SEC,Named,N,Both coders,
+F09-04,SOC,Named,Y,Both coders,
+F09-05,EXP,Named,Y,Referee,8
+F09-05,TRA,Named,N,Referee,8
+F09-06,ACC,Named,Y,Both coders,
+F10-01,PRI,Named,Y,Both coders,
+F10-02,TRA,Named,Y,Both coders,
+F10-02,EXP,Named,N,Both coders,
+F10-02,ACC,Mentioned,N,Both coders,
+F10-03,FAI,Named,Y,Both coders,
+F10-03,SOC,Mentioned,N,Both coders,
+F10-04,SOC,Named,Y,Referee,9
+F10-05,ACC,Named,Y,Both coders,
+F10-06,REL,Named,Y,Both coders,
+F10-06,RPR,Mentioned,N,Both coders,
+F10-06,SAF,Mentioned,N,Both coders,
+F10-06,SEC,Mentioned,N,Both coders,
+F10-07,SAF,Named,Y,Both coders,
+F10-07,SEC,Named,N,Both coders,
+F10-07,SOC,Mentioned,N,Claude only; kept,16
+F11-01,FAI,Named,Y,Both coders,
+F11-02,TRA,Named,Y,Both coders,
+F11-03,EXP,Named,Y,Both coders,
+F11-04,ACC,Named,Y,Both coders,
+F11-04,HUM,Mentioned,N,Both coders,
+F11-04,LAW,Mentioned,N,Both coders,
+F11-04,RSK,Mentioned,N,Gemini only; kept,16
+F11-05,DAT,Named,Y,Both coders,
+F11-05,LAW,Mentioned,N,Both coders,
+F11-06,REL,Named,Y,Both coders,
+F11-06,RPR,Mentioned,N,Both coders,
+F11-07,SEC,Named,Y,Both coders,
+F11-07,REL,Mentioned,N,Both coders,
+F11-08,SAF,Named,Y,Both coders,
+F11-09,PRI,Named,Y,Both coders,
+F11-10,SOC,Named,Y,Both coders,
+F12-01,REL,Named,Y,Both coders,
+F12-01,ACT,Named,N,Referee,15
+F12-01,EXP,Mentioned,N,Both coders,
+F12-01,TRA,Mentioned,N,Both coders,
+F12-02,SAF,Named,Y,Both coders,
+F12-02,EXP,Mentioned,N,Both coders,
+F12-02,FAI,Mentioned,N,Both coders,
+F12-02,PRI,Mentioned,N,Both coders,
+F12-02,REL,Mentioned,N,Both coders,
+F12-02,SEC,Mentioned,N,Both coders,
+F12-02,TST,Mentioned,N,Both coders,
+F12-03,TRA,Named,Y,Referee,10
+F12-03,DAT,Named,N,Referee,10
+F12-03,LAW,Mentioned,N,Claude only; kept,"10, 16"
+F12-03,PRI,Mentioned,N,Both coders,
+F12-04,HUM,Named,Y,Both coders,
+F12-04,SOC,Mentioned,N,Both coders,
+F12-05,SOC,Named,Y,Both coders,
+F13-01,TRA,Named,Y,Both coders,
+F13-02,EXP,Named,Y,Both coders,
+F13-03,RPR,Named,Y,Both coders,
+F13-04,ACC,Named,Y,Both coders,
+F13-04,TRA,Mentioned,N,Claude only; kept,Pilot agreement

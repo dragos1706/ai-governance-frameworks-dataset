@@ -1,0 +1,109 @@
+item_id,framework_id,publisher,item_label,source_section,primary_theme,themes_named,themes_mentioned
+F01-01,F01,NIST (US),Valid and reliable,"NIST AI 100-1, Section 3.1, p.13-14",REL,REL,
+F01-02,F01,NIST (US),Safe,"NIST AI 100-1, Section 3.2, p.14",SAF,SAF,SOC
+F01-03,F01,NIST (US),Secure and resilient,"NIST AI 100-1, Section 3.3, p.15",SEC,REL; SEC,
+F01-04,F01,NIST (US),Accountable and transparent,"NIST AI 100-1, Section 3.4, p.15-16",ACC,ACC; TRA,
+F01-05,F01,NIST (US),Explainable and interpretable,"NIST AI 100-1, Section 3.5, p.16",EXP,EXP,
+F01-06,F01,NIST (US),Privacy-enhanced,"NIST AI 100-1, Section 3.6, p.17",PRI,PRI,
+F01-07,F01,NIST (US),"Fair, with harmful bias managed","NIST AI 100-1, Section 3.7, p.17",FAI,FAI,
+F01-08,F01,NIST (US),CBRN information or capabilities,"NIST AI 600-1, Section 2, p.4",SAF,SAF,
+F01-09,F01,NIST (US),Confabulation,"NIST AI 600-1, Section 2, p.4",REL,REL,
+F01-10,F01,NIST (US),"Dangerous, violent, or hateful content","NIST AI 600-1, Section 2, p.4",SAF,SAF,FAI
+F01-11,F01,NIST (US),Data privacy,"NIST AI 600-1, Section 2, p.4",PRI,PRI,
+F01-12,F01,NIST (US),Environmental impacts,"NIST AI 600-1, Section 2, p.4",SOC,SOC,
+F01-13,F01,NIST (US),Harmful bias or homogenization,"NIST AI 600-1, Section 2, p.4",FAI,FAI,DAT; REL; SOC
+F01-14,F01,NIST (US),Human-AI configuration,"NIST AI 600-1, Section 2, p.4",HUM,HUM,
+F01-15,F01,NIST (US),Information integrity,"NIST AI 600-1, Section 2, p.4",SAF,SAF,REL
+F01-16,F01,NIST (US),Information security,"NIST AI 600-1, Section 2, p.4-5",SEC,SEC,SAF
+F01-17,F01,NIST (US),Intellectual property,"NIST AI 600-1, Section 2, p.5",LAW,LAW,
+F01-18,F01,NIST (US),"Obscene, degrading, and/or abusive content","NIST AI 600-1, Section 2, p.5",SAF,SAF,
+F01-19,F01,NIST (US),Value chain and component integration,"NIST AI 600-1, Section 2, p.5",SUP,SUP,ACC; DAT; TRA
+F02-01,F02,ISO and IEC,A.2 Policies related to AI,ISO/IEC 42001:2023 Annex A,ACC,ACC,
+F02-02,F02,ISO and IEC,A.3 Internal organization,ISO/IEC 42001:2023 Annex A,ACC,ACC,
+F02-03,F02,ISO and IEC,A.4 Resources for AI systems,ISO/IEC 42001:2023 Annex A,OTH,OTH,DAT
+F02-04,F02,ISO and IEC,A.5 Assessing impacts of AI systems,ISO/IEC 42001:2023 Annex A,RSK,RSK,SOC
+F02-05,F02,ISO and IEC,A.6 AI system life cycle,ISO/IEC 42001:2023 Annex A,TST,TST,ACC; REL; TRA
+F02-06,F02,ISO and IEC,A.7 Data for AI systems,ISO/IEC 42001:2023 Annex A,DAT,DAT,
+F02-07,F02,ISO and IEC,A.8 Information for interested parties,ISO/IEC 42001:2023 Annex A,TRA,TRA,ACC; TST
+F02-08,F02,ISO and IEC,A.9 Use of AI systems,ISO/IEC 42001:2023 Annex A,ACC,ACC,
+F02-09,F02,ISO and IEC,A.10 Third-party and customer relationships,ISO/IEC 42001:2023 Annex A,SUP,SUP,ACC
+F03-01,F03,European Union,Art. 4 AI literacy,"AI Act, Art. 4 (as amended by Regulation (EU) 2026/1744)",LIT,LIT,
+F03-02,F03,European Union,Art. 9 Risk management system,"AI Act, Art. 9",RSK,RSK,
+F03-03,F03,European Union,Art. 10 Data and data governance,"AI Act, Art. 10",DAT,DAT,FAI
+F03-04,F03,European Union,Art. 11 Technical documentation,"AI Act, Art. 11",TRA,TRA,
+F03-05,F03,European Union,Art. 12 Record-keeping,"AI Act, Art. 12",ACC,ACC,TRA
+F03-06,F03,European Union,Art. 13 Transparency and information to deployers,"AI Act, Art. 13",TRA,TRA,EXP
+F03-07,F03,European Union,Art. 14 Human oversight,"AI Act, Art. 14",HUM,HUM,LIT
+F03-08,F03,European Union,"Art. 15 Accuracy, robustness and cybersecurity","AI Act, Art. 15",REL,REL; SEC,SAF
+F03-09,F03,European Union,Art. 50 Transparency obligations,"AI Act, Art. 50",TRA,TRA,
+F04-01,F04,IMDA (Singapore),Assess and bound the risks upfront,"MGF for Agentic AI v1.5 (20 May 2026), Executive Summary p.3",RSK,ACT; RSK,ACC; HUM; SEC; TRA
+F04-02,F04,IMDA (Singapore),Make humans meaningfully accountable,"MGF for Agentic AI v1.5, Executive Summary p.3-4",ACC,ACC; HUM,SUP
+F04-03,F04,IMDA (Singapore),Implement technical controls and processes,"MGF for Agentic AI v1.5, Executive Summary p.4",TST,REL; SAF; TST,SEC
+F04-04,F04,IMDA (Singapore),Enable end-user responsibility,"MGF for Agentic AI v1.5, Executive Summary p.4",TRA,LIT; TRA,ACC; HUM
+F05-01,F05,IMDA and AI Verify Foundation (Singapore),Transparency,AI Verify Testing Framework,TRA,TRA,EXP
+F05-02,F05,IMDA and AI Verify Foundation (Singapore),Explainability,AI Verify Testing Framework,EXP,EXP,
+F05-03,F05,IMDA and AI Verify Foundation (Singapore),Repeatability / Reproducibility,AI Verify Testing Framework,RPR,RPR,REL
+F05-04,F05,IMDA and AI Verify Foundation (Singapore),Safety,AI Verify Testing Framework,SAF,SAF,
+F05-05,F05,IMDA and AI Verify Foundation (Singapore),Security,AI Verify Testing Framework,SEC,SEC,
+F05-06,F05,IMDA and AI Verify Foundation (Singapore),Robustness,AI Verify Testing Framework,SEC,SEC,REL
+F05-07,F05,IMDA and AI Verify Foundation (Singapore),Fairness,AI Verify Testing Framework,FAI,FAI,
+F05-08,F05,IMDA and AI Verify Foundation (Singapore),Data Governance,AI Verify Testing Framework,DAT,DAT,ACC; LAW
+F05-09,F05,IMDA and AI Verify Foundation (Singapore),Accountability,AI Verify Testing Framework,ACC,ACC,
+F05-10,F05,IMDA and AI Verify Foundation (Singapore),Human Agency and Oversight,AI Verify Testing Framework,HUM,HUM,
+F05-11,F05,IMDA and AI Verify Foundation (Singapore),"Inclusive Growth, Societal and Environmental Well-being",AI Verify Testing Framework,SOC,SOC,
+F06-01,F06,National AI Centre (Australia),Decide who is accountable,"Guidance for AI Adoption: Implementation practices v1.0 (Oct 2025), p.3",ACC,ACC,
+F06-02,F06,National AI Centre (Australia),Understand impacts and plan accordingly,"Guidance for AI Adoption: Implementation practices v1.0, p.3",RSK,FAI; RSK,LAW; SOC
+F06-03,F06,National AI Centre (Australia),Measure and manage risks,"Guidance for AI Adoption: Implementation practices v1.0, p.3",RSK,RSK,
+F06-04,F06,National AI Centre (Australia),Share essential information,"Guidance for AI Adoption: Implementation practices v1.0, p.3",TRA,EXP; TRA,
+F06-05,F06,National AI Centre (Australia),Test and monitor,"Guidance for AI Adoption: Implementation practices v1.0, p.3",TST,TST,REL; SAF; SEC
+F06-06,F06,National AI Centre (Australia),Maintain human control,"Guidance for AI Adoption: Implementation practices v1.0, p.3",HUM,HUM,
+F07-01,F07,Government Digital Service (UK),P1 Know what AI is and its limitations,AI Playbook for the UK Government (10 Feb 2025),LIT,LIT,REL; TST
+F07-02,F07,Government Digital Service (UK),"P2 Use AI lawfully, ethically and responsibly",AI Playbook for the UK Government,LAW,LAW,ACC
+F07-03,F07,Government Digital Service (UK),P3 Use AI securely,AI Playbook for the UK Government,SEC,SEC,
+F07-04,F07,Government Digital Service (UK),P4 Meaningful human control,AI Playbook for the UK Government,HUM,HUM,SAF; TST
+F07-05,F07,Government Digital Service (UK),P5 Manage the full AI life cycle,AI Playbook for the UK Government,LIT,LIT,OTH
+F07-06,F07,Government Digital Service (UK),P6 Right tool for the job,AI Playbook for the UK Government,OTH,OTH,
+F07-07,F07,Government Digital Service (UK),P7 Open and collaborative,AI Playbook for the UK Government,TRA,OTH; TRA,
+F07-08,F07,Government Digital Service (UK),P8 Work with commercial colleagues,AI Playbook for the UK Government,SUP,SUP,ACC
+F07-09,F07,Government Digital Service (UK),P9 Skills and expertise,AI Playbook for the UK Government,LIT,LIT,
+F07-10,F07,Government Digital Service (UK),P10 Organisational policies and assurance,AI Playbook for the UK Government,ACC,ACC,DAT; HUM; PRI; RSK; SEC
+F08-01,F08,AWS,Fairness,"AWS Well-Architected Generative AI Lens, Responsible AI",FAI,FAI,
+F08-02,F08,AWS,Explainability,"AWS Well-Architected Generative AI Lens, Responsible AI",EXP,EXP,
+F08-03,F08,AWS,Privacy and security,"AWS Well-Architected Generative AI Lens, Responsible AI",PRI,PRI; SEC,
+F08-04,F08,AWS,Safety,"AWS Well-Architected Generative AI Lens, Responsible AI",SAF,SAF,
+F08-05,F08,AWS,Controllability,"AWS Well-Architected Generative AI Lens, Responsible AI",HUM,HUM,TST
+F08-06,F08,AWS,Veracity and robustness,"AWS Well-Architected Generative AI Lens, Responsible AI",REL,REL,SEC
+F08-07,F08,AWS,Governance,"AWS Well-Architected Generative AI Lens, Responsible AI",SUP,ACC; SUP,
+F08-08,F08,AWS,Transparency,"AWS Well-Architected Generative AI Lens, Responsible AI",TRA,TRA,
+F09-01,F09,Microsoft,Fairness,Microsoft Responsible AI principles page,FAI,FAI,
+F09-02,F09,Microsoft,Reliability and safety,Microsoft Responsible AI principles page,REL,REL; SAF,
+F09-03,F09,Microsoft,Privacy and security,Microsoft Responsible AI principles page,PRI,PRI; SEC,
+F09-04,F09,Microsoft,Inclusiveness,Microsoft Responsible AI principles page,SOC,SOC,
+F09-05,F09,Microsoft,Transparency,Microsoft Responsible AI principles page,EXP,EXP; TRA,
+F09-06,F09,Microsoft,Accountability,Microsoft Responsible AI principles page,ACC,ACC,
+F10-01,F10,Deloitte,Private,"Deloitte, Building Trustworthy Generative AI",PRI,PRI,
+F10-02,F10,Deloitte,Transparent & Explainable,"Deloitte, Building Trustworthy Generative AI",TRA,EXP; TRA,ACC
+F10-03,F10,Deloitte,Fair & Impartial,"Deloitte, Building Trustworthy Generative AI",FAI,FAI,SOC
+F10-04,F10,Deloitte,Responsible,"Deloitte, Building Trustworthy Generative AI",SOC,SOC,
+F10-05,F10,Deloitte,Accountable,"Deloitte, Building Trustworthy Generative AI",ACC,ACC,
+F10-06,F10,Deloitte,Robust & Reliable,"Deloitte, Building Trustworthy Generative AI",REL,REL,RPR; SAF; SEC
+F10-07,F10,Deloitte,Safe & Secure,"Deloitte, Building Trustworthy Generative AI",SAF,SAF; SEC,SOC
+F11-01,F11,KPMG,Fairness,KPMG Trusted AI approach (Dec 2023),FAI,FAI,
+F11-02,F11,KPMG,Transparency,KPMG Trusted AI approach (Dec 2023),TRA,TRA,
+F11-03,F11,KPMG,Explainability,KPMG Trusted AI approach (Dec 2023),EXP,EXP,
+F11-04,F11,KPMG,Accountability,KPMG Trusted AI approach (Dec 2023),ACC,ACC,HUM; LAW; RSK
+F11-05,F11,KPMG,Data integrity,KPMG Trusted AI approach (Dec 2023),DAT,DAT,LAW
+F11-06,F11,KPMG,Reliability,KPMG Trusted AI approach (Dec 2023),REL,REL,RPR
+F11-07,F11,KPMG,Security,KPMG Trusted AI approach (Dec 2023),SEC,SEC,REL
+F11-08,F11,KPMG,Safety,KPMG Trusted AI approach (Dec 2023),SAF,SAF,
+F11-09,F11,KPMG,Privacy,KPMG Trusted AI approach (Dec 2023),PRI,PRI,
+F11-10,F11,KPMG,Sustainability,KPMG Trusted AI approach (Dec 2023),SOC,SOC,
+F12-01,F12,Salesforce,Accuracy,"Salesforce, Guiding principles for responsible agentic AI (28 Oct 2024)",REL,ACT; REL,EXP; TRA
+F12-02,F12,Salesforce,Safety,"Salesforce, Guiding principles for responsible agentic AI (28 Oct 2024)",SAF,SAF,EXP; FAI; PRI; REL; SEC; TST
+F12-03,F12,Salesforce,Honesty,"Salesforce, Guiding principles for responsible agentic AI (28 Oct 2024)",TRA,DAT; TRA,LAW; PRI
+F12-04,F12,Salesforce,Empowerment,"Salesforce, Guiding principles for responsible agentic AI (28 Oct 2024)",HUM,HUM,SOC
+F12-05,F12,Salesforce,Sustainability,"Salesforce, Guiding principles for responsible agentic AI (28 Oct 2024)",SOC,SOC,
+F13-01,F13,Alteryx,Visible,"Alteryx blog, VURA",TRA,TRA,
+F13-02,F13,Alteryx,Understandable,"Alteryx blog, VURA",EXP,EXP,
+F13-03,F13,Alteryx,Repeatable,"Alteryx blog, VURA",RPR,RPR,
+F13-04,F13,Alteryx,Auditable,"Alteryx blog, VURA",ACC,ACC,TRA
