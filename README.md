@@ -1,4 +1,5 @@
 # Codings of 13 trustworthy-AI frameworks, with a crosswalk to a seven-step practitioner's loop
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24424711.svg)](https://doi.org/10.5281/zenodo.24424711)
 
 Version 1, November 2026. Author: Dragos Tomescu. First coding by Claude (Anthropic), blind second coding by Gemini (Google), every disagreement settled by the author.
 
@@ -8,7 +9,7 @@ The data behind the article *AI frameworks for mortals: a practitioner's guide*.
 
 The frameworks belong to their publishers. This dataset reproduces only item labels (the headings each framework gives its principles, risks or practices), the section they come from and a link to the source. Read the framework itself for what each item says.
 
-This dataset is released under CC-BY 4.0. If you use it, please cite: *Tomescu, D. (2026). Codings of 13 trustworthy-AI frameworks, with a crosswalk to a seven-step practitioner's loop. Version 1.* https://github.com/dragos1706/ai-governance-frameworks-dataset
+This dataset is released under CC-BY 4.0. If you use it, please cite: *Tomescu, D. (2026). Codings of 13 trustworthy-AI frameworks, with a crosswalk to a seven-step practitioner's loop. Version 1.* https://doi.org/10.5281/zenodo.24424711
 
 ## Files
 

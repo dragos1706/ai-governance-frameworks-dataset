@@ -3,6 +3,7 @@ message: "If you use this dataset, please cite it as below."
 type: dataset
 title: "Codings of 13 trustworthy-AI frameworks, with a crosswalk to a seven-step practitioner's loop"
 version: 1.0.0
+doi: 10.5281/zenodo.24424711
 date-released: 2026-11-21
 license: CC-BY-4.0
 repository-code: "https://github.com/dragos1706/ai-governance-frameworks-dataset"

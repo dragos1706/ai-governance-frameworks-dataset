@@ -1,0 +1,20 @@
+{
+  "upload_type": "dataset",
+  "title": "Codings of 13 trustworthy-AI frameworks, with a crosswalk to a seven-step practitioner's loop",
+  "creators": [
+    {
+      "name": "Tomescu, Dragos"
+    }
+  ],
+  "description": "108 headline items from 13 trustworthy-AI frameworks (7 public, 6 company), coded against 19 themes and mapped to a seven-step practitioner's loop. First coding by Claude (Anthropic), blind second coding by Gemini (Google), disagreements settled by the author. Labels and codes only; no framework text.",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "trustworthy AI",
+    "AI governance",
+    "responsible AI",
+    "generative AI",
+    "AI agents",
+    "content analysis"
+  ]
+}
